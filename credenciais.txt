@@ -2,3 +2,5 @@ git init
 
 git config --global user.email "tiagoguero11@gmail.com"
 git config --global user.name "Monsatto"
+
+git remote add origin  https://github.com/Monsatto/curso-git.git(conecta o git local com o remoto)
